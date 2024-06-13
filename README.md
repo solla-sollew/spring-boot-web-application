@@ -1,7 +1,8 @@
-# spring-boot-web-application
-Spring Boot Demo
+# Spring Boot Demo
 
-- things to achieve
-  1) create a web application for mobile usage
-  2) time the video for auto off
-  3) 
+Template for Spring Boot Project
+branch directory:
+(feature-swaggerUI): Rest API with Swagger UI documentation
+(feature-mvc-thymeleaf): Web app using bootstrap, thymeleaf and Spring MVC
+
+Database
