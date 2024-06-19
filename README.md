@@ -1,7 +1,6 @@
-# spring-boot-web-application
-Spring Boot with Swagger UI Demo
+# Spring Boot Rest API with Swagger UI
 
-Creating a rest api and document is as swagger UI.
+Creating a rest api and document it as swagger UI.
 
 1) add dependency into pom.xml
 ```
@@ -15,6 +14,7 @@ Creating a rest api and document is as swagger UI.
 ```
     mvn spring-boot:run
 ```
+3) go to http://localhost:8080/swagger-ui/index.html
 
 Sample screenshot
 ![Swagger UI](swagger-ui.png)
